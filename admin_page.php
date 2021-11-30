@@ -236,8 +236,14 @@ $next = $page + 1;
                 </div>
             </div>
             <div id="sectionC" class="tab-pane fade">
-                <h3>Section C</h3>
-                <p>Nullam hendrerit justo non leo aliquet...</p>
+            <div class="container mt-5">
+                    <h2 class="text-start mb-5">Settings</h2>
+                        <div>
+                            <h4 class="text-start mb-5">No settings found!</h4>
+                        </div>
+
+                    </div>
+                </div>
             </div>
         </div>
     </div>
